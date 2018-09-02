@@ -7,3 +7,6 @@
 * [Manticore](https://github.com/trailofbits/manticore)
 * [Manticore](https://github.com/trailofbits/manticore)
 * [Solgraph](https://github.com/raineorshine/solgraph)
+## Learn and Practice
+* [Ethernaut](https://ethernaut.zeppelin.solutions/)
+* [Capture the Ether](https://capturetheether.com/)
