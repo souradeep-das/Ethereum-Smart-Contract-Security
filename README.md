@@ -7,6 +7,8 @@
 * [Manticore](https://github.com/trailofbits/manticore)
 * [Manticore](https://github.com/trailofbits/manticore)
 * [Solgraph](https://github.com/raineorshine/solgraph)
+* [Surya](https://github.com/ConsenSys/surya)
+* [Securify](https://securify.ch/)
 ## Learn and Practice
 * [Ethernaut](https://ethernaut.zeppelin.solutions/)
 * [Capture the Ether](https://capturetheether.com/)
